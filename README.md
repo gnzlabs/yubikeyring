@@ -1,2 +1,3 @@
-# yubikeyring
-G-Net Keyring support for Yubikeys
+# Yubikeyring
+
+G-Net Keyring implementation for Yubikeys.
